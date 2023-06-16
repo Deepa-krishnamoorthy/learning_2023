@@ -20,7 +20,7 @@ int main()
 //using ternary operator
 
 #include <stdio.h>
-
+#include<stdio.h>
 int main()
 {
     int x,y,big;
